@@ -1,5 +1,7 @@
 """
 CSC148 Lab #1, Winter 2018.
+
+@author Abdullah Khokhar
 """
 from typing import List, Dict
 
